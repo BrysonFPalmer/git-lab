@@ -145,5 +145,3 @@ Answer Thirteen:
 .  ..  .git  .gitignore  README.md
 
 --------------------------------------------------------------
-
-Answer Fourteen:
